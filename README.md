@@ -10,3 +10,8 @@ You have completed 22 of 1409 coding challenges.
 ```
 You have completed 30 of 1409 coding challenges.
 ```
+
+## 3rd day - Trying freeCodeCamp
+```
+You have completed 100 of 1409 coding challenges.
+```
